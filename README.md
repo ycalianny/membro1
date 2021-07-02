@@ -45,7 +45,7 @@ background-color: #FFB47B
 	<LI><A href="mailto:malu.moura1501@gmail.com">email</A>
 </UL>
 
-<P>Para visitar o site do grupo <A href="">clique aqui.</A>
+<P>Para visitar o site do grupo <A href="https://github.com/ycalianny/grupo/blob/main/README.md#grupo">clique aqui.</A>
 
 </body>
 </html>
