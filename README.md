@@ -45,7 +45,7 @@ background-color: #FFB47B
 	<LI><A href="mailto:malu.moura1501@gmail.com">email</A>
 </UL>
 
-<P>Para visitar o site do grupo <A href="file:///C:/Users/Yasmim%20Calianny/OneDrive/Documentos/grupo.html">clique aqui.</A>
+<P>Para visitar o site do grupo <A href="">clique aqui.</A>
 
 </body>
 </html>
